@@ -16,8 +16,8 @@
    id="svg8"
    sodipodi:docname="hepatitis_b.svg"
    inkscape:export-filename="C:\Users\xmichaelx\bigpharmainfographics\hepatitis_b.png"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="600"
+   inkscape:export-ydpi="600"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <defs
      id="defs2" />
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="253.5882"
-     inkscape:cy="819.79104"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="250.24582"
+     inkscape:cy="907.49485"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -84,7 +84,9 @@
        height="297"
        x="0"
        y="3.8964413e-007"
-       style="fill:#27978b;fill-opacity:1;stroke-width:0.26458332" />
+       style="fill:#27978b;fill-opacity:1;stroke-width:0.26458332"
+       inkscape:export-xdpi="600"
+       inkscape:export-ydpi="600" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.26458332;"
@@ -108,20 +110,20 @@
        inkscape:connector-curvature="0" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;text-anchor:middle;text-align:center;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:0.25;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="49.19804"
        y="24.692444"
        id="text4534"><tspan
          sodipodi:role="line"
          id="tspan4532"
-         x="4.9578485"
+         x="49.19804"
          y="24.692444"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;text-anchor:middle;text-align:center;">Co wywołuje wirusowe zapalenie wątroby </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332">Co jest przyczyną wirusowego</tspan><tspan
          sodipodi:role="line"
-         x="4.9578485"
+         x="49.19804"
          y="28.085518"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';fill:#ffffff;fill-opacity:1;stroke-width:0.26458332;text-anchor:middle;text-align:center;"
-         id="tspan907">typu B?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333311px;line-height:0.25;font-family:Consolas;-inkscape-font-specification:'Consolas Bold';text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
+         id="tspan907">zapalenia wątroby typu B?</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
@@ -625,15 +627,15 @@
          style="opacity:1;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.79097432;stroke-miterlimit:0;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <text
          id="text955-7"
-         y="108.4761"
-         x="87.445633"
+         y="108.50917"
+         x="87.015686"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"><tspan
            id="tspan5315"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.41111112px;line-height:0.25;font-family:Consolas;-inkscape-font-specification:Consolas;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke-width:0.26458332"
-           y="108.4761"
-           x="87.445633"
-           sodipodi:role="line">W tej skali jestem 10 x mniejszy</tspan></text>
+           y="108.50917"
+           x="87.015686"
+           sodipodi:role="line">W tej skali HBV jest 10 x mniejszy</tspan></text>
       <text
          id="text955-7-5"
          y="111.28905"
